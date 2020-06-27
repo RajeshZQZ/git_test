@@ -1,2 +1,0 @@
-unadd file
-begin add test-4.txt and use commit -a to auto add in the index
