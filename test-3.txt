@@ -1,0 +1,2 @@
+test-3.txt
+auto add when use commit -a -m;
