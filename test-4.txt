@@ -1,0 +1,2 @@
+test-4:
+remove index test use git rm --cached 
