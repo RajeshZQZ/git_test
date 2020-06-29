@@ -1,0 +1,8 @@
+test-4:
+remove index test use git rm --cached
+change file and rm from index 
+6666666666666666666666666666666666666
+new add change
+
+888888888888888888
+7777777777777
