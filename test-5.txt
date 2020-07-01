@@ -5,5 +5,8 @@
 add 
 444444444
 666666666
+<<<<<<< HEAD
 merge test from show_branch add same;
+=======
+>>>>>>> show_branch_01
 show_branch_01_add
