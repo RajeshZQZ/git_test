@@ -9,4 +9,12 @@ new add change
 
 
 add tag
+ 6666666666
 
+
+<<<<<<< HEAD
+show branch add 88888 and then merge 
+
+=======
+show branch 01 add 6666 and then merge
+>>>>>>> show_branch_01
